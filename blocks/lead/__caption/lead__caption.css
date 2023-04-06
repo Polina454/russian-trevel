@@ -8,16 +8,10 @@ margin-top: 8px;
 text-transform: uppercase;
 align-self: self-start;
 }
-@media screen and (max-width: 1023px)
+@media screen and (max-width: 1024px)
 {
 .lead__caption{
 padding-left: 24px;
 }
 }
 
-@media screen and (max-width: 767px)
-{
-.lead__caption{
-padding-left: 48px;
-}
-}

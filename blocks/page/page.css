@@ -5,8 +5,3 @@ color: #FFFFFF;
 margin: 0 auto;
 max-width: 1280px;
 }
-*,
-*::before,
-*::after {
-  outline: 1px solid red
-}

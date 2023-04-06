@@ -1,0 +1,25 @@
+
+.cover {
+display: flex;
+flex-direction: column;
+width: 100%;
+justify-content: center;
+margin: 0 auto;
+
+}
+@media screen and (max-width: 767px) 
+{
+.cover {
+
+max-width: 768px;
+
+}
+}
+@media screen and (max-width: 320px) 
+{
+.cover {
+max-width: 320px;
+
+
+}
+}

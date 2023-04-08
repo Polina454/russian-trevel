@@ -1,27 +1,24 @@
-.website{
-    grid-area: website;
-    margin: 0;
-    padding: 0;
-    color: #FFFFFF;
-    text-decoration: none;
-   align-self: end;
+.website {
+  grid-area: website;
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+  text-decoration: none;
+  align-self: end;
 }
 
-@media screen and (max-width: 1023px)
- {
-    .website{
+@media screen and (max-width: 1023px) {
+  .website {
     width: 352px;
-
-    }
+  }
 
 }
 
-@media screen and (max-width: 767px)
- {
-    .website{
+@media screen and (max-width: 767px) {
+  .website {
 
-margin: 0 auto;
-width: 288px;
-    }
+    margin: 0 auto;
+    width: 288px;
+  }
 
 }

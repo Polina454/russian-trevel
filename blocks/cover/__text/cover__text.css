@@ -1,8 +1,6 @@
-.cover__text{
-  position: absolute;
-  right: 0;
-  left: 0;
-  top: 50%;
-  transform: translate(0, -50%);
-
+.cover__title {
+  position: relative;
+  z-index: 1;
+  font-size: 60px;
+  margin: 0;
 }

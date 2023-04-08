@@ -9,4 +9,4 @@
 3. media
 4. резиновая верстка
 
-### Сылка на проект: 
+### Сылка на проект: https://polina454.github.io/russian-trevel/

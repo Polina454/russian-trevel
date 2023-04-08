@@ -29,14 +29,8 @@
   opacity: 0.8;
 }
 
-@media(width < 1024px) {
-  .cover__title {
-    font-size: 45px;
-  }
-}
-
 @media screen and (max-width: 1023px) {
-  .cover__background {
+  .cover__overlay {
     min-width: 768px;
     margin-right: 0;
     margin-left: 0;
@@ -45,7 +39,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .cover__background {
+  .cover__overlay {
     min-width: 320px;
   }
 
